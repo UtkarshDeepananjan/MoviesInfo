@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="movie_poster" translatable="true">movie poster</string>
+    <string name="top_rated" translatable="true">Top Rated</string>
+    <string name="popular" translatable="true">Popular</string>
+    <string name="sort" translatable="true">Sort</string>
+    <string name="release_date" translatable="true">Release Date</string>
+    <string name="place_holder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar pellentesque habitant morbi tristique senectus et. Adipiscing elit ut aliquam purus sit amet. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Sed vulputate odio ut enim blandit. Eget lorem dolor sed viverra. At augue eget arcu dictum. Gravida cum sociis natoque penatibus et. Cursus turpis massa tincidunt dui ut ornare lectus sit amet. Hendrerit dolor magna eget est lorem ipsum. Purus ut faucibus pulvinar elementum integer enim. Praesent tristique magna sit amet purus gravida quis blandit turpis. Nisi quis eleifend quam adipiscing vitae proin sagittis. Vitae elementum curabitur vitae nunc sed velit dignissim sodales ut. Nisi est sit amet facilisis magna etiam tempor orci. Mauris a diam maecenas sed enim ut sem viverra aliquet. Convallis tellus id interdum velit laoreet id.</string>
+    <string name="movie_details" translatable="true">Movie Details</string>
+    <string name="overview" translatable="true">Overview</string>
+    <string name="trailers" translatable="true">Trailers</string>
+    <string name="play_icon" translatable="true">play icon</string>
+    <string name="favorite_icon" translatable="true">favorite icon</string>
+    <string name="trailer_not_available" translatable="true"> No Trailer Available</string>
+    <string name="reviews_label" translatable="true">Reviews</string>
+    <string name="reviews_not_available" translatable="true">No Reviews Available</string>
+    <string name="favorite" translatable="true">Favorite</string>
+    <string name="view_more_label" translatable="true">View More</string>
+    <string name="view_less_label" translatable="true">View Less</string>
+    <string name="see_all_label" translatable="true">See All</string>
+    <string name="added_to_favorite" translatable="true">Added to favorite</string>
+    <string name="removed_from_favorite" translatable="true">Removed from favorite</string>
+    <string name="no_internet_connection_available" translatable="true">No Internet Connection Available</string>
+    <string name="no_record_available_label" translatable="true">No Record Available</string>
+</resources>
